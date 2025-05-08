@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Skyyteq</h1>
+<h1 align="center">Hi 👋, I'm Erlingx</h1>
 <h3 align="center">French informatique student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frerlingx&label=Profile%20views&color=0e75b6&style=flat" alt="frerlingx" /> </p>
