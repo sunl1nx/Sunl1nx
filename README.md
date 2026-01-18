@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Erlingx</h1>
+<h1 align="center">Hi 👋, I'm Sunl1nx</h1>
 <h3 align="center">French informatique student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunl1nx&label=Profile%20views&color=0e75b6&style=flat" alt="sunl1nx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frerlingx" alt="sunl1nx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ritoviktor" target="blank"><img src="https://img.shields.io/twitter/follow/ritoviktor?logo=twitter&style=for-the-badge" alt="ritoviktor" /></a> </p>
 
