@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/erlingx3645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erlingx3645" height="30" width="40" /></a>
-<a href="https://dev.to/skyyteq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skyyteq" height="30" width="40" /></a>
+<a href="https://codepen.io/sunl1nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erlingx3645" height="30" width="40" /></a>
+<a href="https://dev.to/sunl1nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skyyteq" height="30" width="40" /></a>
 <a href="https://twitter.com/ritoviktor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritoviktor" height="30" width="40" /></a>
 </p>
 
