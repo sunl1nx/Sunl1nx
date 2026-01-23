@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Java, or HTML/CSS**
 
-- 📫 How to reach me **stream@sunlinx.fr**
+- 📫 How to reach me **contact@sunlinx.fr**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
