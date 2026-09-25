@@ -1,36 +1,77 @@
-<h1 align="center">Hi 👋, I'm Sunl1nx</h1>
-<h3 align="center">French informatique student.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunl1nx&label=Profile%20views&color=0e75b6&style=flat" alt="sunl1nx" /> </p>
+  # Salut, moi c'est Sunl1nx 👋
+  ### 🎓 Étudiant français en informatique | Passionné par le Game Dev & la Cybersécurité
 
-<p align="left"> <a href="https://twitter.com/sunl1nx" target="blank"><img src="https://img.shields.io/twitter/follow/sunl1nx?logo=twitter&style=for-the-badge" alt="ritoviktor" /></a> </p>
+  <p align="center">
+    <a href="https://twitter.com/sunl1nx">
+      <img src="https://img.shields.io/badge/X-@sunl1nx-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    </a>
+    <a href="mailto:contact@sunlinx.fr">
+      <img src="https://img.shields.io/badge/Email-contact@sunlinx.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=sunl1nx&label=VUES%20PROFIL&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  </p>
 
-- 🔭 I’m currently working on **video game**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,19&height=120&section=header"/>
 
-- 🌱 I’m currently learning **Cybersecurity**
+</div>
 
-- 🤝 I’m looking for help with **C++ and UE5**
+### 🚀 À propos de moi
 
-- 💬 Ask me about **Python, Java, or HTML/CSS**
+- 🎮 **Projet en cours :** Développement de jeux vidéo (moteurs, gameplay, shaders)
+- 🛡️ **Formation en cours :** Certificat de spécialisation Cybersécurité & certification Cisco CCNA 1
+- 🤝 **En quête de partage :** Échanges autour de **C++** et **Unreal Engine 5**
+- 💬 **Technologies favorites :** Python, Java, C#, Web
+- 📫 **Contact direct :** [contact@sunlinx.fr](mailto:contact@sunlinx.fr)
 
-- 📫 How to reach me **contact@sunlinx.fr**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🛠️ Stack Technique & Certifications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sunl1nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erlingx3645" height="30" width="40" /></a>
-<a href="https://dev.to/sunl1nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skyyteq" height="30" width="40" /></a>
-<a href="https://twitter.com/ritoviktor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritoviktor" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+  <!-- Réseau & Sécurité -->
+  <img src="https://img.shields.io/badge/Cisco_CCNA_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA 1" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Certificat_Spécialisation-00599C?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Certif Cyber" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunl1nx&show_icons=true&locale=en&layout=compact" alt="sunl1nx" /></p>
+  <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunl1nx&show_icons=true&locale=en" alt="sunl1nx" /></p>
+  <!-- Langages -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunl1nx&" alt="sunl1nx" /></p>
+  <br/>
+
+  <!-- Moteurs, Outils & BDD -->
+  <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+
+</div>
+
+---
+
+### 📊 Statistiques & Progression
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=sunl1nx&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" alt="Stats Sunl1nx" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunl1nx&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Langages Sunl1nx" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img height="150" src="https://streak-stats.demolab.com/?user=sunl1nx&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak Sunl1nx" />
+</div>
+
+---
+
+### 📈 Activité Récente
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sunl1nx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Graphe d'activité Sunl1nx" />
+</div>
