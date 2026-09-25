@@ -73,5 +73,5 @@
 ### 📈 Activité Récente
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sunl1nx&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Graphe d'activité Sunl1nx" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunl1nx&theme=tokyo-night&hide_border=true&area=true&v=1" width="100%" alt="Graphe d'activité Sunl1nx" />
 </div>
